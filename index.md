@@ -148,6 +148,7 @@ Du kan använda vad som helst, men en IDE såsom CLion eller Visual Studio kan v
 ### DT076G Databaser, modellering och implementering
 
 * [DB Browser for SQLite](https://sqlitebrowser.org/) (sqlitebrowser) - "visual, open source tool to create, design, and edit database files compatible with SQLite" - snabbt och enkelt sätt att laborera med databaser
+* [Webbkurs baserad på Databasteknik](http://www.databasteknik.se/webbkursen/) - Webbkurs som baseras på kursboken Databasteknik. (Svensk)
 
 ### DT060G Objektorienterad programmering i C++
 
